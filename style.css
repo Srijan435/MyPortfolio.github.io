@@ -191,7 +191,9 @@ header{
     font-size: 12px;
 }
 .procontainer{
-    margin: -10px 36px;
+    margin: 13px 69px;
+    font-size: 21px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .procontainer p{
     font-size: 10px;
